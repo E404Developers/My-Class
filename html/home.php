@@ -24,7 +24,7 @@
 
 		<div class="discription">
 			<h1>The Place Where The Students Meet Their Best Teachers.</h1>
-			<h2>Sri Lankan's #1 Class Adverticement Platform</h2>
+			<h2>Sri Lankan's #1 Class Advertisement Platform</h2>
 
 			<div class="button">
 				<button class="teacher">
