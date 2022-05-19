@@ -1,0 +1,173 @@
+.main {
+	width: 100%;
+}
+*{
+	margin:0 ;
+	padding: 0;  
+}
+.top{
+	width:100%;
+	height: 75px;
+	background-color: darkgreen;
+	position:fixed;
+	overflow:hidden;
+	 
+}
+.logo{
+	float: left;
+	padding: 15px;
+	color: white;
+	cursor: pointer;
+}
+.nav{
+	padding: 20px;
+}
+.nav ul{
+	float: right;
+	font-size: 25px;	
+}
+.nav ul li {
+	display: inline-block;
+
+}
+.nav ul li a{
+	text-decoration:none;
+	padding-left: 50px;
+	letter-spacing: 2px	;
+	color:white;
+}
+.nav ul li a:hover{
+	color: orange;
+	text-shadow: 2px 5px 10px black;
+}
+.discription{
+	width: 100%;
+	height:80vh;
+	padding-top: 320px;
+	text-align: center;
+	background-color:black;
+	color: white;
+	background-image:url(../src/main.png);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:bottom;
+	background-size:contain;
+
+}
+.discription h1{
+	font-size:45px;
+}
+.discription h2{
+	letter-spacing: 3px;
+	margin:30px;
+	margin-top:50px;
+}
+.discription button{
+	padding: 10px 60px;
+	font-size:20px;
+	border-radius:25px;
+	color: white;
+	background: transparent;
+	border:2px solid white;
+	margin:30px;
+	box-shadow:2px 8px 20px gray;
+	/*z-index:10;*/
+	position: relative;
+}
+.discription button:last-child{
+	box-shadow:2px 10px 20px gray;
+}
+.discription button:hover{
+	cursor:pointer;
+	letter-spacing:2px;
+}
+
+.content{
+	width: 80%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.student-img {
+	float: left;
+	width: 40%;
+}
+.st-about{
+	float: right;
+	width: 60%;
+	padding-top:  100px;
+
+}
+.st-about h3{
+	font-size: 30px;
+	margin-bottom: 20px;
+	border-left:10px solid black;
+	padding-left:5px;
+}
+.st-about p{
+	border-left:10px solid black;
+	font-size: 20px;
+	text-align: justify;
+	padding-left:5px;
+}
+
+.teacher-img{
+	float: right;
+	width: 40%;
+}
+.teacher-img img {
+	float: right;
+	text-shadow:2px 5px 10px 20px black;		
+}
+.teach-about{
+	float: left;
+	width: 60%;
+	margin-top: 30px;
+}
+.teach-about h3{
+	padding-left:5px;
+	border-left:10px solid black;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+.teach-about p{
+	padding-left:5px;
+	font-size: 20px;
+	border-left:10px solid black;
+	text-align: justify;
+}
+.popular{
+	
+	text-align: center;
+	margin-top: 5px;
+}
+.dev{
+	width: 	80%;	
+	margin: 0 auto;
+	text-align: center;	
+}
+.dev-logo{
+	float: left;
+	width: 20%;
+}
+.dev-discription{
+	float: right;
+	width: 80%;
+}
+.dev-item{
+	
+	margin-top: 25px;
+	font-size: 20px;
+}
+.socialmedia{
+	/*float: 	right;*/
+}
+.socialmedia ul{
+	margin-top: 20px;
+}
+.socialmedia ul li{
+	display: inline-block;
+
+}
+.socialmedia li i {
+	font-size:50px;
+}
