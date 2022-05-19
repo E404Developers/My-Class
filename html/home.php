@@ -80,7 +80,7 @@
 			</div><!-- dev-logo -->
 			<div class="dev-discription">
 				<div class="dev-item">
-					<p>sdsgfdsg sgdfiugsifdg sjfjdfdshfg dggfddfdgffgdgif dfgfggfugidgfigigdf dggfgdgfgdugfug gdgfgdfgdif dfgdgfg</p>
+					<p>sacheera</p>
 				</div><!-- dev-item -->
 				<div class="socialmedia">
 					<ul>
