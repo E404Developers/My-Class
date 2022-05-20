@@ -9,8 +9,9 @@ body{
 }
 
 #login{
-	width: 40%;
-	margin:20px auto;
+	width: 50%;
+	margin:10px;
+	margin:40px auto;
 	background-color:rgba(92, 94, 92,0.5);
 	padding: 10px;
 	box-shadow:2px 10px 10px black;
@@ -18,11 +19,10 @@ body{
 	text-align: center;
 	color: white;
 
-
 }
 
 input{
-	background: Transparent;
+		background: Transparent;
     background-repeat:no-repeat;
     border: none;
     cursor:pointer;
@@ -30,18 +30,18 @@ input{
     width: 100%; 
     border-bottom:2px solid aqua;
     color: aqua;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
     cursor: text;
-    font-size:15px;
+
 }
 label{
 	color: aqua;
+	text-align: center;
 }
 button{
-	margin-top: 5px;
+	margin-top: 10px;
 	width: 100%;
-		font-size:15px;
 }
 ::placeholder { 
   color: aqua;
@@ -56,19 +56,17 @@ button{
   color: aqua;
 }
 img{
-	width: 10%;
+	width: 20%;
 	border-radius: 50%;
 	background-color: aqua;
 	box-shadow:0px 0px 5px aqua,0 0 10px aqua,0 0 20px aqua;
 }
 h1{
 	text-shadow:0px 0px 5px aqua,0 0 10px aqua,0 0 20px aqua;
-	font-size:15px;
 }
 p{
 	padding:2px;
-	font-size:10px;
 }
-p a{
+a{
 	color:lightblue;
 }

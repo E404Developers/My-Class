@@ -56,7 +56,7 @@
 
    <input type="password" class="" id="password" placeholder="Enter your Password" name="pass"><br><br>
   <button type="submit" class="btn btn-primary" name="submit2">Log In</button>
-  <p>Don't You Have An Account ?<a href="register.php"> Register</a></p>
+  <p>Don't You Have An Account ?<a href="studentRegister.php">Register</a></p>
   </div>
 </form>
 
